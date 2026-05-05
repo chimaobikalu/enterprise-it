@@ -167,11 +167,4 @@ A full walkthrough demonstrating:
 - Integrated client systems into a domain environment
 - Tested and validated real-world IT scenarios
 
----
 
-## Future Improvements
-
-- Deploy Group Policy Objects (GPOs) for advanced control
-- Implement network monitoring (e.g., Zabbix)
-- Configure automated backups
-- Extend environment to hybrid cloud (Azure integration)
