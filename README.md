@@ -194,7 +194,7 @@ and group management, domain join, and access control testing.
 ## Key Takeaways
 
 Building this from scratch gave me a much stronger understanding of how 
-Active Directory actually works in practice — not just theory. Structuring 
+Active Directory actually works in practice, not just theory. Structuring 
 users into OUs, enforcing policies, and seeing access control work (and 
 fail) in real time made the concepts click in a way that reading about 
 them never quite does.
