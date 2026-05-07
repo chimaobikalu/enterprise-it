@@ -1,4 +1,8 @@
-# Enterprise IT Lab – Active Directory Environment
+# Enterprise IT Infrastructure Using Active Directory Domain Services (AD DS)
+
+<img width="1200" height="599" alt="image" src="https://github.com/user-attachments/assets/0fcbb5b2-a03f-4b46-b5b2-6610e0f534b4" />
+
+
 
 ## Overview
 I simulated an enterprise IT environment for a fictional company, **Velora Logistics Ltd.** I took on 
@@ -178,7 +182,7 @@ The Finance user logged in, opened the folder, and found the text file.
 Full video walkthrough covering the entire build — domain setup, user 
 and group management, domain join, and access control testing.
 
-[Watch Video](#)
+▶️[Watch Video](https://drive.google.com/file/d/1yhTm0d8a7ZIdDAMIRJ5Z8dKmEZ648ZmM/view?usp=sharing)
 
 ---
 
@@ -191,7 +195,7 @@ and group management, domain join, and access control testing.
 
 ---
 
-## Key Takeaways
+## COnclusion
 
 Building this from scratch gave me a much stronger understanding of how 
 Active Directory actually works in practice, not just theory. Structuring 
